@@ -6,3 +6,5 @@
 - <a href="https://github.com/PySimpleGUI/PySimpleGUI">PySimpleGUI
 
 ## This is a PDF to Word lightweight converter written in python
+  
+- Files that are too large may not be converted
